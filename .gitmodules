@@ -1,0 +1,6 @@
+[submodule "CLR-UDT-Types"]
+	path = CLR-UDT-Types
+	url = git@github.com:smuzka/CLR-UDT-Types.git
+[submodule "CLR-UDT-App"]
+	path = CLR-UDT-App
+	url = git@github.com:smuzka/CLR-UDT-App.git
